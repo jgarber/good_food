@@ -1,6 +1,6 @@
 Champagne Peach Bellini Recipe
 
 # Open chilled champagne. Dip rims of drink glasses in fine sugar.
-# Pour one ounce of peach schnapps in each glass.
-# Pour seven ounces of champagne into each drink.
-# Garnish with peach slice, serve and enjoy.
+#  Pour one ounce of peach schnapps in each glass.
+#  Pour seven ounces of champagne into each drink.
+#  Garnish with peach slice, serve and enjoy.
